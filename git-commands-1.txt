@@ -1,14 +1,12 @@
 git status -> print the status of the git repository
+git init -> initialized the git repository
+git config -global user.name "Lets Kode It"
+-------------------------------------------
+
+Branch 01:
+git status -> print the status of the git repository
 git init
 git config -global user.name "Lets Kode It"
-
-
-
-
-
-
-
-
 -------------------------------------------
 
 Branch 02:
@@ -16,3 +14,4 @@ git status -> print the status of the git repository
 git init
 git config -global user.name "Lets Kode It"
 git config - global user.email
+
